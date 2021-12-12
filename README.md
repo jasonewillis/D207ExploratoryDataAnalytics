@@ -12,9 +12,26 @@ Analyzing these variables with an Analysis of Variance test (ANOVA), a test comp
 
 ### ANOVA Test Comparing Patient Stay (Initial Days_ and Readmissions:
 
-![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/PCA_ScreePlot.png?raw=true "Scree Plot")
+![alt text](https://github.com/jasonewillis/D207ExploratoryDataAnalytics/blob/19b0a6e39b5e83f9af7ff371fed6456a33973742/D207_ANOVA.png?raw=true "ANOVA")
 
 
-### Heat Map: 
+### Histogram Compareing Initial Stay and Readmissions: 
 
-![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/HeatMap.png?raw=true "Heat Map")
+![alt text](https://github.com/jasonewillis/D207ExploratoryDataAnalytics/blob/19b0a6e39b5e83f9af7ff371fed6456a33973742/D207HistogramCompareInitialStayAndReadmins.png?raw=true "Histogram")
+
+### Univariate Analysis: Continuous and Categorical Data: 
+
+![alt text](https://github.com/jasonewillis/D207ExploratoryDataAnalytics/blob/19b0a6e39b5e83f9af7ff371fed6456a33973742/D207_UnivariateAnalysisContViewingMedianAndModeStatistics.png?raw=true "Histogram")
+
+### Univariate Continued: Viewing Median and Mode Statistics: 
+
+![alt text](https://github.com/jasonewillis/D207ExploratoryDataAnalytics/blob/19b0a6e39b5e83f9af7ff371fed6456a33973742/D207_UnivariateAnalysisContViewingMedianAndModeStatistics.png?raw=true "Histogram")
+
+### Histogram Plotting Numerical Data of Patients Vs Initial Patient Stay and Total Charges: 
+
+![alt text](https://github.com/jasonewillis/D207ExploratoryDataAnalytics/blob/19b0a6e39b5e83f9af7ff371fed6456a33973742/D207HistogramsPlottingNumericalDataOfPatientsVsInitialInpatientStayAndTotalCharges.png?raw=true "Histogram")
+
+
+### Boxplots Comparing Independent Variables: 
+
+![alt text](https://github.com/jasonewillis/D207ExploratoryDataAnalytics/blob/19b0a6e39b5e83f9af7ff371fed6456a33973742/D207BoxplotsVisualizingComparisonsBetweenIndependentVariables.png?raw=true "Histogram")
