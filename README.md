@@ -35,3 +35,11 @@ Analyzing these variables with an Analysis of Variance test (ANOVA), a test comp
 ### Boxplots Comparing Independent Variables: 
 
 ![alt text](https://github.com/jasonewillis/D207ExploratoryDataAnalytics/blob/19b0a6e39b5e83f9af7ff371fed6456a33973742/D207BoxplotsVisualizingComparisonsBetweenIndependentVariables.png?raw=true "Histogram")
+
+
+# Recommended Course of Action
+From the ANOVA testing, we can see a high F-statistic and low p-value which indicates the null hypothesis that initial stay length does not affect readmission rates, is rejected.  By referencing the Histogram comparing initial stay and remissions, Boxplots comparing initial stay and remissions and the average initial days calculated when a patient is readmitted, hospital providers could follow up with patients whose initial inpatient stays approached 60 days in length (average stay of readmitted patients was ~64 days), since these patients seem to have a higher risk of readmission within 30 days of their initial inpatient release.  By continuing a thread of communication, our hospitals could start to learn why this group is more prone to readmissions while making the process, if necessary, as seamless as possible.  
+
+Additionally, I feel further investigation is required into known but not yet analyzed data and potentially additional data e.g. provider notes, reason for hospitalization in order to help understand the how and/or why better.  
+
+
