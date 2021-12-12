@@ -10,3 +10,11 @@ Analyzing these variables with an Analysis of Variance test (ANOVA), a test comp
 
 
 
+### ANOVA Test Comparing Patient Stay (Initial Days_ and Readmissions:
+
+![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/PCA_ScreePlot.png?raw=true "Scree Plot")
+
+
+### Heat Map: 
+
+![alt text](https://github.com/jasonewillis/D206DataCleaning/blob/e1d71e97672eeb90b28eec7c42970288d4947938/HeatMap.png?raw=true "Heat Map")
